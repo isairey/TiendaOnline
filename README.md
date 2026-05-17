@@ -205,7 +205,7 @@ Este módulo funciona como administrador principal del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-PHPMVCOnlineStore/
+TiendaOnline/
 │
 ├── app/
 │   ├── controllers/          # Controladores MVC
@@ -246,7 +246,7 @@ PHPMVCOnlineStore/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/PHPMVCOnlineStore.git
+git clone https://github.com/isaireyesp1/TiendaOnline.git
 ```
 
 ---
@@ -256,7 +256,7 @@ git clone https://github.com/isairey/PHPMVCOnlineStore.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/PHPMVCOnlineStore/
+xampp/htdocs/TiendaOnline/
 ```
 
 ---
@@ -305,7 +305,7 @@ define('DB_NAME','php_mvc_store');
 Abrir:
 
 ```bash
-http://localhost/PHPMVCOnlineStore/
+http://localhost/TiendaOnline/
 ```
 
 ---
