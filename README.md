@@ -2,7 +2,7 @@
 
 <img width="220" src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" />
 
-# 🛒 PHP MVC Online Store
+# 🛒 TiendaOnline
 
 ### Plataforma web de comercio electrónico con arquitectura MVC 🚀
 
